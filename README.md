@@ -7,8 +7,6 @@ A simple web app that calculates your exact age in years and months from your bi
 
 Project URL: https://roadmap.sh/projects/age-calculator
 
-## Preview
-![Age Calculator Preview](preview.png)
 
 ## Features
 - Clean date picker input
@@ -31,10 +29,7 @@ age-calculator/
 2. Click **Calculate**
 3. Your exact age in years and months is displayed instantly
 
-## How to Run Locally
-1. Clone the repo
-   git clone https://github.com/YOUR_USERNAME/age-calculator.git
-2. Open `index.html` directly in your browser — no setup needed
+
 
 ## Author
 Puneet Jadaun
